@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-ckl-frontend",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "CRA",
+    "template",
+    "CheesecakeLabs",
+    "CKL"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CheesecakeLabs/cra-template-ckl-frontend"
+  },
+  "bugs": {
+    "url": "https://github.com/CheesecakeLabs/cra-template-ckl-frontend/issues"
+  },
+  "description": "Cheesecake Labs CRA Template",
+  "main": "template.json",
+  "license": "MIT",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
