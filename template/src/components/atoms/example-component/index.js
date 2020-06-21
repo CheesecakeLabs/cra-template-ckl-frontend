@@ -6,7 +6,7 @@ function ExampleComponent() {
   return (
     <p className={styles.text}>
       {" "}
-      Ckl boilerplate is up and running!
+      CKL Create React App Template is ready!
       <span role="img" aria-label="so cool">
         😀 😎 👍 💯
       </span>

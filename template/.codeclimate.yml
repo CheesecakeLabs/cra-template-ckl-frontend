@@ -8,7 +8,7 @@ plugins:
     enabled: true
     channel: 'eslint-6'
     config:
-      config: .eslintrc.json
+      config: .eslintrc
       ignore_warnings: false
   duplication:
     enabled: true

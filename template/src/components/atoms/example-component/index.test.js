@@ -4,6 +4,6 @@ import ExampleComponent from ".";
 
 test("Render component successfully", () => {
   const { getByText } = render(<ExampleComponent />);
-  const linkElement = getByText(/Ckl boilerplate is up and running/i);
+  const linkElement = getByText(/CKL Create React App Template is ready/i);
   expect(linkElement).toBeInTheDocument();
 });

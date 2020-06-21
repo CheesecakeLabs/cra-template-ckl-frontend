@@ -9,7 +9,7 @@ Cheesecake Labs template for Create React App.
 
 ## Features
 
-- [📕 Storybook 5](https://storybook.js.org/docs/basics/introduction/)
+- [📕 Storybook](https://storybook.js.org/docs/basics/introduction/)
 - [🔴 Sass](https://sass-lang.com/)
 - [🐺 Husky](https://github.com/typicode/husky)
 - [💜 Eslint](https://eslint.org)

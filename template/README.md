@@ -1,10 +1,12 @@
 # PROJECT NAME
 
+Describe here in a few words what the project is, what problem solves, who is the client. Just a brief description is enough
+
 ## Getting Started
 
 ### Requirements
 
-1. Node 10
+1. Node 10+
 1. Yarn
 
 ### Env vars
