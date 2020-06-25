@@ -1,0 +1,13 @@
+@import "styles/variables";
+
+.text {
+  color: $color-default-blue;
+  font-family: $font-default;
+}
+
+// Example media query usage
+@media ($sm-viewport) {
+  .text {
+    color: $color-error;
+  }
+}
