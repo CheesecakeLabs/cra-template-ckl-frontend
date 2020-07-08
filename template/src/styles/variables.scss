@@ -37,9 +37,9 @@ $size-small: "0.75rem"; // 12px
 
 // Media queries
 $iphone5-viewport: "max-width: 320px";
-$xs-viewport: "max-width: 480px";
-$sm-viewport: "max-width: 768px";
-$md-viewport: "max-width: 1024px";
-$lg-viewport: "min-width: 1024px";
-$xl-viewport: "min-width: 1367px";
+$xs-viewport: "max-width: 575px";
+$sm-viewport: "max-width: 767px";
+$md-viewport: "max-width: 991px";
+$lg-viewport: "max-width: 1199px";
+$xl-viewport: "max-width: 1399px";
 $retina-display: "(-webkit-min-device-pixel-ratio: 1.25), (min-resolution: 120dpi)";
